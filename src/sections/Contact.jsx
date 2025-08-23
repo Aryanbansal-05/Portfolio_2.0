@@ -76,8 +76,7 @@ const Contact = () => {
         <div className="contact-container">
           <h3 className="head-text">Let's talk</h3>
           <p className="text-lg text-white-600 mt-3">
-            Whether you’re looking to build a new website, improve your existing platform, or bring a unique project to
-            life, I’m here to help.
+           I'm always looking for new opportunities to learn, collaborate, and work on projects that push my skills further. Whether you have a coding question, want to discuss the latest in tech, or just want to connect with someone passionate about development, feel free to reach out!
           </p>
 
           <form ref={formRef} onSubmit={handleSubmit} className="mt-12 flex flex-col space-y-7">
